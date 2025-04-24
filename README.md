@@ -1,1 +1,1 @@
-# Python Development Project
+# Rust Development Project
